@@ -1,33 +1,33 @@
 # My Photo Portfolio 
 
-## Carousel
+## Carousel {#carousel}
 
 ![Carousel](./photos/Carousel.jpeg)
 
-## Lake
+## Lake {#lake}
 
 ![Lake](./photos/Lake.jpeg)
 
-## Saint Pete
+## Saint Pete {#pete}
 
 ![Saint Pete](./photos/Pete.jpeg)
 
-## Stan
+## Stan {#stan}
 
 ![Stan](./photos/Stan.jpeg)
 
-## A camel in Cairo
+## A camel in Cairo {#camel}
 
 ![A camel in Cairo](./photos/Camel.jpeg)
 
-## Sunset on the beach
+## Sunset on the beach {#sunset}
 
 ![Sunset on the beach](./photos/Sunset.jpeg)
 
-## Gull
+## Gull {#gull}
 
 ![Gull](./photos/Gull.jpeg)
 
-## The Sea, Tunisia
+## The Sea, Tunisia {#tunisia}
 
 ![The Sea, Tunisia](./photos/Tunisia.jpeg)
