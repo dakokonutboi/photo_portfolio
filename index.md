@@ -2,4 +2,4 @@
 
 ## Carousel
 
-![./photos/Carousel.jpeg](Carousel)
+![Carousel](./photos/Carousel.jpeg)
