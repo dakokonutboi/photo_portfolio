@@ -10,7 +10,7 @@
 
 ## Saint Pete
 
-![Saint Pete](./photos/Saint Pete.jpeg)
+![Saint Pete](./photos/Pete.jpeg)
 
 ## Stan
 
@@ -18,7 +18,7 @@
 
 ## A camel in Cairo
 
-![A camel in Cairo](./photos/A camel in Cairo.jpeg)
+![A camel in Cairo](./photos/Camel.jpeg)
 
 ## Sunset on the beach
 
@@ -30,4 +30,4 @@
 
 ## The Sea, Tunisia
 
-![The Sea, Tunisia](./photos/The Sea, Tunisia.jpeg)
+![The Sea, Tunisia](./photos/Tunisia.jpeg)
